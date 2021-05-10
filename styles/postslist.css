@@ -17,7 +17,7 @@ body {
   .post:hover {
     box-shadow: 0 0 20px 10px #ccc;
   }
-  .post .name{
+  .post .username{
     background-color: white;
     padding: 20px;
     border-top-left-radius: 15px;
@@ -25,7 +25,7 @@ body {
     display: flex;
     align-items: center;
   }
-  .post .name p {
+  .post .username p {
     color: #838383;
     font-weight: bold;
   }
